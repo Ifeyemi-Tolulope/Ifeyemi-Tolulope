@@ -40,10 +40,10 @@ I'm a Software Developer with an ever-growing passion for cyberoperations and ke
 
 ### 🔥 &nbsp; My Stats
 
-[![!GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ifeyemi-Tolulope&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![!GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ifeyemi-Tolulope&theme=dark&hide_border=false)]()
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifeyemi-Tolulope&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifeyemi-Tolulope&layout=compact&theme=vision-friendly-dark)]()
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ifeyemi-Tolulope&icon=0&color=0)](https://visitcount.itsvg.in)
